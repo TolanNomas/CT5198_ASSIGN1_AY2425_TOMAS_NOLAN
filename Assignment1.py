@@ -1,3 +1,4 @@
+# Tomás Nolan 15105006
 # Q2a. Creates a list to store the number of customers that a business had each day
 
 # Initialising empty customer list
